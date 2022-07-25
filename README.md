@@ -5,5 +5,5 @@ A repository of extremly simple python code as I relearn my forgotten foundation
 
 Contents (Will be updated as more code is added): <br />
   Add Digits Of Number <br />
-  Celsius to Fahrenheit (and vise-versa) converter
-
+  Celsius to Fahrenheit (and vise-versa) converter <br />
+  Check if a number is Prime efficiently
