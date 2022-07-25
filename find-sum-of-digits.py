@@ -9,7 +9,6 @@ def getAns(n):
         # You can also do "n = int(n/10)"
     return sum
 
-
 # Call Function
 num = int(input("Enter a poitive integer:".rstrip()))
 print(f"The sum of the digits of the number {num} is: {getAns(num)}")
