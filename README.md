@@ -7,4 +7,6 @@ Contents (Will be updated as more code is added): <br />
   Add Digits Of Number <br />
   Celsius to Fahrenheit (and vise-versa) converter <br />
   Check if a number is Prime efficiently <br />
-  Remove duplicates from list 
+  Remove duplicates from list <br />
+  Random number Generator
+  
