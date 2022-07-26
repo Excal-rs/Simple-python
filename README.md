@@ -8,5 +8,6 @@ Contents (Will be updated as more code is added): <br />
   Celsius to Fahrenheit (and vise-versa) converter <br />
   Check if a number is Prime efficiently <br />
   Remove duplicates from list <br />
-  Random number Generator
+  Random number Generator <br />
+  Euclidean HCF finder
   
