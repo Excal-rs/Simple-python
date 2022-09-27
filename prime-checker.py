@@ -15,7 +15,7 @@ max_num = math.ceil(math.sqrt(num))
 #makes it more efficient by making it only need to try fewer numbers
 if num == 1 or num == 4:
     print(f"{num} is not prime")
-    #deals with how 1 and 4 did not work with this system
+    #deals with how 1 and 4 did not work with this system - issue #1
 
 else:
     for count in range(2, max_num):
