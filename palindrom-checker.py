@@ -12,3 +12,5 @@ if string2[::-1].lower() == string2.lower():
 else:
     print(f"{string}, is not a palindrome. :(")
     #output
+
+#Excal-rs Github
