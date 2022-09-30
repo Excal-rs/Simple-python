@@ -29,3 +29,5 @@ if X2Y.lower() in ["celsius", 'c']:
     print(f"{X} degrees Celsius is {C2F(X)} degrees fahrenheit")
 elif X2Y.lower() in ["fahrenheit", 'f']:
     print(f"{X} degrees Fahrenheit is {F2C(X)} degrees Celsius ")
+
+#Excal-rs Github
