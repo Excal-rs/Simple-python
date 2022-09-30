@@ -11,3 +11,5 @@ def rmDup(duplist):
     return noduplist
 
 print(rmDup(list))
+
+#Excal-rs Github
