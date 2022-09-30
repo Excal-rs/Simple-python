@@ -1,7 +1,5 @@
 import math
 
-n = 1
-
 #user input
 while True:
     try:
@@ -13,20 +11,23 @@ while True:
 
 max_num = math.ceil(math.sqrt(num))
 #makes it more efficient by making it only need to try fewer numbers
+
 if num == 1 or num == 4:
     print(f"{num} is not prime")
-    #deals with how 1 and 4 did not work with this system - issue #1
+    #deals with how 1 and 4 did not work with this system - refer to issue #1
 
 else:
-    for count in range(2, max_num):
-        n += 2
-    # ensures number is always odd
-        if num % n == 0:
+    
+    for n in range(3, max_num, 2):
+    # ensures number is always odd using a count step of two
+    
+        if num % n == 0 or num % 2 == 0:
             print(f"{num} is not prime.")
-            break
-        elif num % 2 == 0:
-            print(f"{num} is not prime.")
-            break
+            break      
     else:
         print(f"{num} is prime")
     #output
+
+
+
+#Excal-Rs Github
