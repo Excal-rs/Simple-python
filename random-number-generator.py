@@ -19,3 +19,5 @@ while True:
 num = random.randint(a,b)
 print(num)
 #output
+
+#Github Excal-rs
